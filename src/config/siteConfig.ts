@@ -24,29 +24,29 @@ export const SITE_CONFIG = {
 
   // Resume/CV Section
   resume: {
-    showResumeButton: true,
-    showResumeInHeader: true,
+    showResumeButton: false,
+    showResumeInHeader: false,
   },
 
   // Portfolio/Projects Section
   projects: {
     showProjectsSection: false,
-    showPersonalWebsite: true,
+    showPersonalWebsite: false,
     showComingSoonProjects: false,
     maxProjectsToShow: 3,
   },
 
   // About Section
   about: {
-    showAboutSection: true,
-    showSkillsCards: true,
+    showAboutSection: false,
+    showSkillsCards: false,
   },
 
   // Header Navigation
   navigation: {
     showBlogLink: true,
-    showResumeLink: true,
-    showGameProject: true,
+    showResumeLink: false,
+    showGameProject: false,
   },
 
   // Contact Information
