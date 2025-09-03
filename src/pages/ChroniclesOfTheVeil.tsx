@@ -1,7 +1,4 @@
-import { useLanguage } from '../contexts/LanguageContext'
-
 function ChroniclesOfTheVeil() {
-  const { t } = useLanguage()
 
   return (
     <div className="bg-black text-white min-h-screen py-24">
